@@ -22,7 +22,7 @@ I work with tools like Unreal Engine, Unity, Blender, Substance Painter, and Pho
 
 - 🧠 Passionate about creating **open world and survival games**
 - 🛠 Skilled in **Unreal Engine 5**, **3D Modeling**, and **Game Asset Design**
-- 🌱 Currently working on **Survoria** — a survival crafting game like *The Forest / Minecraft*
+- 🌱 Currently working on **Survoria** 
 - 🎯 Goal: Build immersive game worlds that feel alive
 
 Let’s connect if you're into creating amazing game experiences or just want to exchange ideas!
