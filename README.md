@@ -12,7 +12,7 @@ v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giph
 
 ### <div align="center"> 3D Artist | Game Dev | Specialize in Game and Level Design | Environment Artist
 
-
+## 🚀 About Me
 Hi, 
 I'm Aniket Patel a Game Designer, Environment Artist, Level Designer, and 3D Artist who loves building immersive game worlds that players can truly get lost in.
 
@@ -23,7 +23,6 @@ I work with tools like Unreal Engine, Unity, Blender, Substance Painter, and Pho
 Let’s connect if you're into creating amazing game experiences or just want to exchange ideas!
 ---
 
-## 🚀 About Me
 - 🧠 Passionate about creating **open world and survival games**
 - 🛠 Skilled in **Unreal Engine 5**, **3D Modeling**, and **Game Asset Design**
 - 🌱 Currently working on **Survoria** — a survival crafting game like *The Forest / Minecraft*
