@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw4NG1reXU3dGQ4OHFpbTA3czd4cDk2bDh3YTJjcjEyaWt4ZHc5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35JL2FvHK04fUoSGQH/giphy.gif" width="40">  Hello there, my name is Germán López Gutiérrez</div>
+# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw4NG1reXU3dGQ4OHFpbTA3czd4cDk2bDh3YTJjcjEyaWt4ZHc5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35JL2FvHK04fUoSGQH/giphy.gif" width="40">  Hello there, my name is Aniket Patel </div>
 <!--# <di![gerlogu-banner (7)]()
 v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>-->
 
@@ -19,19 +19,17 @@ v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giph
   </p>
 </div>
 
-### <div align="center">I am a Professional Game Designer specialized in Unreal Engine & Unity.
+### <div align="center">I am a 3D Artist | Game Dev | Specialize in Game and Level Design | Environment Artist
 
 
-In 2017 I began my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight _[Into the Cave](https://gerlogu.com/portfolio/into-the-cave/)_, _[Revenge .44](https://gerlogu.com/portfolio/revenge-44/)_, _[Shinobi no Noboru](https://gerlogu.com/portfolio/shinobi-no-noboru/)_, and my Final Thesis Project: _[Stigma Protocol](https://gerlogu.com/portfolio/stigma-protocol/)_.
+Hi, 
+I'm Aniket Patel a Game Designer, Environment Artist, Level Designer, and 3D Artist who loves building immersive game worlds that players can truly get lost in.
 
-In addition, in the degree, I have had to make use of different programming languages such as **C++**, **C#**, JavaScript, Java, and C, along with game engines like **Unity**, **Unreal Engine** and GameMaker Studio.
+For me, it’s not just about making things look good — it's about creating environments that feel alive and meaningful, where gameplay and storytelling come together naturally. Whether it’s 3D modeling, texturing, or designing a level layout, I enjoy every part of the creative process.
 
-During this period I joined multiple game jams such as Texel Jam 2018, where my team was the winner of the public vote, and URJam 2020, where my team was also the winner, but this time by the jury.
+I work with tools like Unreal Engine, Unity, Blender, Substance Painter, and Photoshop — and I’m always curious to learn more, try new techniques, and collaborate with people who share the same passion for games and design.
 
-In 2021 I started a **Master’s Degree in Game Design** at U-tad, in Las Rozas. 
-
-During this year, I started publishing assets and plugins in the **UE Marketplace**, being one of these assets **[showcased by Epic Games](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/)** and promoted on its landing page.
-
+Let’s connect if you're into creating amazing game experiences or just want to exchange ideas!
 ---
 
 ## 🚀 About Me
