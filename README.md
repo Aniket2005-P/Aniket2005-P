@@ -20,14 +20,12 @@ For me, it’s not just about making things look good — it's about creating en
 
 I work with tools like Unreal Engine, Unity, Blender, Substance Painter, and Photoshop — and I’m always curious to learn more, try new techniques, and collaborate with people who share the same passion for games and design.
 
-Let’s connect if you're into creating amazing game experiences or just want to exchange ideas!
----
-
 - 🧠 Passionate about creating **open world and survival games**
 - 🛠 Skilled in **Unreal Engine 5**, **3D Modeling**, and **Game Asset Design**
 - 🌱 Currently working on **Survoria** — a survival crafting game like *The Forest / Minecraft*
 - 🎯 Goal: Build immersive game worlds that feel alive
 
+Let’s connect if you're into creating amazing game experiences or just want to exchange ideas!
 ---
 
 ## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
