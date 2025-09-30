@@ -1,5 +1,6 @@
 # Aniket
 My Profile
+![Banner](https://yourimageurl.com/banner.png)
 # 👋 Hello there, my name is Aniket Patel  
 🎮 I'm a **Game Designer, Developer & 3D Artist** specialized in **Unreal Engine & Game Design**  
 
