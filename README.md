@@ -1,5 +1,3 @@
-# Aniket
-My Profile
 # <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw4NG1reXU3dGQ4OHFpbTA3czd4cDk2bDh3YTJjcjEyaWt4ZHc5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35JL2FvHK04fUoSGQH/giphy.gif" width="40">  Hello there, my name is Germán López Gutiérrez</div>
 <!--# <di![gerlogu-banner (7)]()
 v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"> Hello there, my name is Germán López Gutiérrez</div>-->
@@ -20,6 +18,19 @@ v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giph
 	<img alt="GitHub Stars" src="https://img.shields.io/github/stars/gerlogu?style=flat&labelColor=1f1f1f&color=2EA967&logo=github"></a>
   </p>
 </div>
+
+### <div align="center">I am a Professional Game Designer specialized in Unreal Engine & Unity.
+
+
+In 2017 I began my journey in this industry starting a **Bachelor’s Degree in Game Design and Development** at Rey Juan Carlos University, in Madrid, Spain. During the next four years I worked on numerous projects which highlight _[Into the Cave](https://gerlogu.com/portfolio/into-the-cave/)_, _[Revenge .44](https://gerlogu.com/portfolio/revenge-44/)_, _[Shinobi no Noboru](https://gerlogu.com/portfolio/shinobi-no-noboru/)_, and my Final Thesis Project: _[Stigma Protocol](https://gerlogu.com/portfolio/stigma-protocol/)_.
+
+In addition, in the degree, I have had to make use of different programming languages such as **C++**, **C#**, JavaScript, Java, and C, along with game engines like **Unity**, **Unreal Engine** and GameMaker Studio.
+
+During this period I joined multiple game jams such as Texel Jam 2018, where my team was the winner of the public vote, and URJam 2020, where my team was also the winner, but this time by the jury.
+
+In 2021 I started a **Master’s Degree in Game Design** at U-tad, in Las Rozas. 
+
+During this year, I started publishing assets and plugins in the **UE Marketplace**, being one of these assets **[showcased by Epic Games](https://gerlogu.com/achievements/asset-showcased-in-the-ue-marketplace/)** and promoted on its landing page.
 
 ---
 
