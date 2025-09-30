@@ -34,12 +34,18 @@ Let’s connect if you're into creating amazing game experiences or just want to
 ## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/ue-content/)
 ![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+</br>
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
 ![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
+</br>
+</br>
 ![HTML5](https://img.shields.io/badge/html5-f16529?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-0065f4?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)
+</br>
+</br>
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)
 ![Premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-00005b?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=101010)
+![AfterEffects](https://img.shields.io/badge/Adobe_After_Effects-00005b?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=101010)
 <br>
 
 ---
