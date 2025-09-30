@@ -19,7 +19,7 @@ v align="center"><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giph
   </p>
 </div>
 
-### <div align="center">I am a 3D Artist | Game Dev | Specialize in Game and Level Design | Environment Artist
+### <div align="center"> 3D Artist | Game Dev | Specialize in Game and Level Design | Environment Artist
 
 
 Hi, 
