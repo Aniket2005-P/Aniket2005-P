@@ -22,10 +22,9 @@ My Profile
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourname@email.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📸 Instagram: [@yourinsta](https://instagram.com/yourinsta)
+- 📧 Email: 2005aniketpatel@gmail.com  
+- 🌐 Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://www.artstation.com/aniketpatel54))  
+  
 
 ---
 
